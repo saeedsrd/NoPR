@@ -1,6 +1,5 @@
-url: "https://saeedsrd.github.io/NoPR" # the base hostname & protocol for your site, e.g. http://example.com
-#baseurl: "/NoPR" # the subpath of your site, e.g. /blog
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://saeedsrd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/NoPR" # the subpath of your site, e.g. /blog
 title: "کتاب ماهیت واقعیت شخصی - Nature of personal reality" # the name of your site, e.g. ACME Corp.
 lang: "fa"
 direction: "rtl"
